@@ -1,0 +1,15 @@
+body {
+    margin: 10px;
+    padding-left: 250px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+main {
+    margin-left: 200px;
+    max-width: 600px;
+    padding: 5px;
+}
+
+h2, p {
+    margin-left: 10px;
+}
